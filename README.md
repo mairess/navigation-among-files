@@ -2,7 +2,9 @@
 
 Check by yourself 👉🏽 [here](https://mairess.github.io/navigation-among-files/index.html)
 
-![navigationAmongFiles](https://user-images.githubusercontent.com/130297266/236313952-5433edfc-cbfb-46a6-8af3-b3688339b22f.gif)
+Source 👉🏽 https://app.rocketseat.com.br/discover/course/o-guia-estelar-de-html
+
+![navigationAmongFiles](https://user-images.githubusercontent.com/130297266/236316690-5343b21b-52a2-48c6-acb0-3bbe57bf6bd8.gif)
 
 ---
 ## Exercício de apresentação
