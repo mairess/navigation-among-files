@@ -1,8 +1,8 @@
-# <p>Easy navigation among files</p>
+# <p align="center">Easy navigation among files</p>
 
-Check by yourself [here](https://mairess.github.io/navigation-among-files/index.html)
+Check by yourself 👉🏽 [here](https://mairess.github.io/navigation-among-files/index.html)
 
-
+![navigationAmongFiles](https://user-images.githubusercontent.com/130297266/236313952-5433edfc-cbfb-46a6-8af3-b3688339b22f.gif)
 
 ---
 ## Exercício de apresentação
